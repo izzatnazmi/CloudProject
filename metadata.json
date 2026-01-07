@@ -1,0 +1,6 @@
+
+{
+  "name": "CourtSync Admin Dashboard",
+  "description": "A pixel-perfect admin management dashboard for the UPM Badminton Court Booking System, featuring court status control and event request management.",
+  "requestFramePermissions": []
+}
